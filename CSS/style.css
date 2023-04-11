@@ -1,0 +1,48 @@
+/***************************** TAG SELECTORS*******************/
+
+body {
+    background-color: #F3E9DD;
+}
+
+
+
+
+h1 {
+    color: red;
+    font-size: 100px;
+    font-family: Georgia, serif;
+    
+}
+
+
+p { font-family: 'Times New Roman', Times, serif;
+    color: blueviolet; 
+    font-size: 15px;
+}
+
+img { background-color: gold;
+
+}
+
+
+/************************************* CLASS SELECTORS **********************/
+.broccoli {
+    background-color: red;
+}
+
+.bacon {
+    background-color: green;
+}
+
+.circular {
+    border-radius: 100%;
+
+}
+
+
+/************************************* ID SELECTORS **********************/
+
+#heading {
+
+    color: blue
+}
